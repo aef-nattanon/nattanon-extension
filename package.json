@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:nattanon-extension.helloWorld"
+        "onCommand:nattanon-extension.nattanonTest"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "nattanon-extension.helloWorld",
-            "title": "Hello World"
+            "command": "nattanon-extension.nattanonTest",
+            "title": "Nattanon Test"
 
 		}]
 	},
